@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/simple-react-blog'
+  base: '/simple-react-blog/'
 })

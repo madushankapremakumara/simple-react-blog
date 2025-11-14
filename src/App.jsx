@@ -10,7 +10,7 @@ import { PostProvider } from "./pages/PostProvider";
 function App() {
   return (
     <PostProvider>
-      <Router basename="/simple-react-blog">
+      <Router basename="/simple-react-blog/">
         <Navbar
           expand="lg"
           className="bg-body-tertiary"
